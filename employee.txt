@@ -1,0 +1,5 @@
+D111-Marketing:
+E111,Hung Tuan,500
+D112-Accounting:
+E112,Quoc Trong,750
+D113-Human Resource:
